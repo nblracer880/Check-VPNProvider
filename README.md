@@ -1,4 +1,3 @@
-```markdown
 # External WAN IP Check for NordVPN/Providers
 
 This PowerShell script verifies whether the system's external WAN IP address is associated with NordVPN or a list of recognized hosting providers. It uses the [ipinfo.io](https://ipinfo.io/) API to retrieve IP and organization details and returns specific exit codes based on the connection status.
